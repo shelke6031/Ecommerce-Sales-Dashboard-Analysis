@@ -43,5 +43,3 @@ Feel free to clone, explore, and customize it for your own use cases. Feedback a
 
 ---
 
-I can help you add a section on how to publish this to Power BI Service or embed it in a website. Just say the word!
-
